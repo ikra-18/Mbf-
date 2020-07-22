@@ -12,7 +12,6 @@
 #######################################################
 
 import os, sys, shutil
-from app import main as app
 
 base_url = 'https://mbasic.facebook.com'
 
